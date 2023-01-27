@@ -1,0 +1,18 @@
+{
+    "name": "learn-js",
+    "version": "1.0.0",
+    "lockfileVersion": 1,
+    "requires": true,
+    "scripts": {
+         "test": "jest"
+        },
+    "devDependencies": {
+        "jest": "^29.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pavelkor2011p/module11_homework.git"
+    },
+    "author": "Pavelkor2011p",
+    "license": "ISC"
+}
